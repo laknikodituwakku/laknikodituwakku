@@ -1,4 +1,4 @@
-[![MasterHead](https://www.astrazeneca.com/content/dam/az/r-and-d/banner/Data_Science_AI_Header_2.gif/jcr:content/renditions/cq5dam.web.1200.Data_Science_AI_Header_2.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.isical.ac.in/~tihisi/Advt/WMLDS/images/deepLearning.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lakni Kodituwakku</h1>
 <h3 align="center">A passionate data scientist from Sri Lanka</h3>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
