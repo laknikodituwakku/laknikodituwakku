@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lakni Kodituwakku</h1>
 <h3 align="center">A passionate data scientist from Sri Lanka</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laknikodituwakku&label=Profile%20views&color=0e75b6&style=flat" alt="laknikodituwakku" /> </p>
 
